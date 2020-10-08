@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sundial</string>
+    <string name="basic_temperature">12°C</string>
+    <string name="feels_temperature">13°C</string>
+    <string name="location">Ottawa</string>
+    <string name="add_widget">Add widget</string>
+    <string name="location_image">Location image</string>
+    <string name="feels_like_label">Feels like:</string>
+    <string name="rainy_image">Rainy Image</string>
+</resources>
